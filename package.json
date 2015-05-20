@@ -1,0 +1,26 @@
+{
+  "name": "d3-legend",
+  "version": "1.0.0",
+  "description": "Simple legend using data-legend attributes on paths.",
+  "main": "d3.legend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jieter/d3-legend.git"
+  },
+  "keywords": [
+    "d3",
+    "legend"
+  ],
+  "author": "Jan Pieter Waagmeester <jieter@jieter.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jieter/d3-legend/issues"
+  },
+  "homepage": "https://github.com/jieter/d3-legend",
+  "peerDependencies": {
+    "d3": "^3.5.5"
+  }
+}
