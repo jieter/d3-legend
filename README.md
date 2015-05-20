@@ -1,7 +1,7 @@
 # d3-legend
 
 Originally (C) 2012 ziggy.jonsson.nyc@gmail.com
-
+[gist](https://gist.github.com/ZJONSSON/3918369) [block](http://bl.ocks.org/ZJONSSON/3918369)
 
 ## Usage
 
